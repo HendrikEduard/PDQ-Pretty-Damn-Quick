@@ -1,8 +1,0 @@
-Use or change the database name, user, and password in conx.php
-Add db.sql to your database.
-Move all the files to your webserver.
-Open index.php in your browser.
-
-Click on the column headings to sort by that column (First Name, Last Name, Location).
-
-Enjoy.
