@@ -1,6 +1,5 @@
 # PDQ (Pretty 'n' Damn Quick) PHP Toolkit  
-### Pretty 'n' Damn Quick Pure PHP Table Sorting.  
-    
+      
 This is the repository for the tutorials found via the facebook link below.  
 This toolkit will blossom into a complete web application.  
   
