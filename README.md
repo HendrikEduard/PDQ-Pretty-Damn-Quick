@@ -1,4 +1,4 @@
-# PDQ (Pretty Damn Quick) an MVC Framework  
+# PDQ (Pretty Damn Quick) a PHP MVC Framework  
 ### Written using OOPPP (Object Oriented Procedural PHP w/PDO)  
   
 PDQ will be offered as SaaS (Software as a Service)  
